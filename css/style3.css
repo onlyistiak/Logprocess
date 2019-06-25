@@ -1,0 +1,79 @@
+
+*{
+	margin: 0px auto;
+}
+
+body{
+	background-image: url(../img/back2.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: 'Ubuntu', sans-serif;
+}
+.container{
+	width: 450px;
+	margin: 5% auto;
+
+}
+
+.container img{
+	height: 143px;
+	width: 138px;
+	display: block;
+	margin: 7px auto;
+	padding-top: 5px;
+}
+.container h3{
+	letter-spacing: 1px;
+	text-align: center;
+	font-size: 32px;
+	margin-bottom: 7px;
+}
+
+.container p{
+	text-align: center;
+	font-size: 15px;
+	padding-bottom: 7px;
+}
+
+.einput{
+	width: 79%;
+    padding: 7px 5px;
+    margin-bottom: 10px;
+
+    display: block;
+    text-align: center;
+    font-size: 17px;
+    box-sizing: border-box;
+   border-bottom: 1px solid #fff;
+    border-radius: 17px;
+    border-bottom: 1px maroon;
+    background: rgba(0,0,0,0.1);
+    color: black;
+}
+
+.reset{
+	background-color: black;
+    padding: 6px 22px;
+    font-size: larger;
+    display: block;
+    box-sizing: border-box;
+    border-radius: 6px;
+    margin:6px auto;
+    outline: none;
+    color: white;
+    cursor: pointer;
+}
+
+
+.linking {
+	text-align: center;
+	padding-top: 8px;
+	
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+
+a:visited{
+	color:maroon;}
